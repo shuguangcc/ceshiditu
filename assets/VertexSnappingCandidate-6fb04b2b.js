@@ -1,0 +1,1 @@
+import{dC as e,dG as o,dH as s}from"./index-455b69b8.js";class i extends e{constructor(t){super({...t,constraint:new o(t.coordinateHelper,t.targetPoint)})}get hints(){return[new s(this.targetPoint,this.elevationInfo,this.domain)]}}export{i as o};

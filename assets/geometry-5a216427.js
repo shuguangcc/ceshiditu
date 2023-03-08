@@ -1,0 +1,1 @@
+import{S as o}from"./ensureType-cf29afa9.js";import{p,a as t,w as i}from"./Extent-69509002.js";import{a as m,m as e,v as r}from"./Polyline-bf268e7b.js";import"./typeUtils-eb9416d0.js";const a={base:p,key:"type",typeMap:{extent:t,multipoint:m,point:i,polyline:e,polygon:r}};o(a);export{a as i};
